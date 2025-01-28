@@ -6,3 +6,5 @@ This is a simple HTML page to demostrating how to structure a resume.
 This is a personal challenge to complete frontend roadmap projects.
 
 The project roadmap can be found here: https://roadmap.sh/projects/single-page-cv
+
+To view the result, just open index.html in a browser.
